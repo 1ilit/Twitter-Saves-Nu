@@ -22,6 +22,6 @@ public class Main {
 
     public static void main(String[] args){
        Timer timer=new Timer();
-       timer.scheduleAtFixedRate(new Update(), 0, 30000); //updates every 15 minutes
+       timer.scheduleAtFixedRate(new Update(), 0, 900000); //updates every 15 minutes
     }
 }
