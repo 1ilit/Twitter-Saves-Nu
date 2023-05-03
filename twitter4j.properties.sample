@@ -1,0 +1,5 @@
+debug=true
+oauth.consumerKey=yourkey
+oauth.consumerSecret=yoursecret
+oauth.accessToken=yourtoken
+oauth.accessTokenSecret=yourtokensecret
